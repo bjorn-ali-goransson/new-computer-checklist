@@ -24,3 +24,4 @@
 * Unpin QuickLaunch shortcuts
 * Add AppData, Dev as QuickLaunch shortcuts
 * Install [Slack](https://slack.com/intl/en-se/downloads/windows)
+* Install [Dell SupportAssist](https://lmgtfy.com/?q=dell+support+assist)
