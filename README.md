@@ -16,3 +16,4 @@
 * Install [dotPeek](https://www.jetbrains.com/decompiler/)
 * Install English & Arabic keyboards
 * Activate "Remember language input setting in each window"
+* Install [7-Zip](https://www.7-zip.org)
