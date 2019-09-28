@@ -2,7 +2,7 @@
 
 * Run [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater)
 * Disable the search bar
-* Activity button
+* Disable Activity button
 * Remove all games
 * Install Chrome
 * Create C:\Dev
@@ -22,4 +22,5 @@
 * Run `git config --global user.name "Björn Ali Göransson"`
 * Change DPI
 * Unpin QuickLaunch shortcuts
-* Add AppData as QuickLaunch shortcuts
+* Add AppData, Dev as QuickLaunch shortcuts
+* Install [Slack](https://slack.com/intl/en-se/downloads/windows)
