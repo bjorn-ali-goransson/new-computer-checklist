@@ -18,5 +18,8 @@
 * Activate "Remember language input setting in each window"
 * Install [7-Zip](https://www.7-zip.org)
 * Install [Git](https://git-scm.com/download/win)
+* Run `git config --global user.email "bjorn.a.goransson@gmail.com"`
+* Run `git config --global user.name "Björn Ali Göransson"`
 * Change DPI
-* 
+* Unpin QuickLaunch shortcuts
+* Add AppData as QuickLaunch shortcuts
