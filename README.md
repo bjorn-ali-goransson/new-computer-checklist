@@ -9,7 +9,7 @@
 * Make exception for C:\Dev with Windows Defender
 * Install [Visual Studio Community Edition](https://visualstudio.microsoft.com/vs/)
 * Install [VS Code](https://code.visualstudio.com/)
-* Install [GifCam] (http://blog.bahraniapps.com/gifcam/)
+* Install [GifCam](http://blog.bahraniapps.com/gifcam/)
 * Show hidden files
 * Show file extensions
 * Install [FileZilla](https://filezilla-project.org/download.php?type=client)
