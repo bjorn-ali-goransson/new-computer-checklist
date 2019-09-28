@@ -18,3 +18,5 @@
 * Activate "Remember language input setting in each window"
 * Install [7-Zip](https://www.7-zip.org)
 * Install [Git](https://git-scm.com/download/win)
+* Change DPI
+* 
