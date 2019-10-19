@@ -1,6 +1,6 @@
 # new-computer-checklist
 
-* Run [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater)
+* Run [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) `(iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/debloat')))`
 * Disable the search bar
 * Disable Activity button
 * Remove all games
