@@ -1,12 +1,12 @@
 # new-computer-checklist
 
 * Run [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) `(iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/debloat')))`
-* Disable the search bar
-* Disable Activity button
+* Disable the search bar (reg key `HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Search = 0`)
+* Disable Task View button (reg key HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced\ShowTaskViewButton = 0)
 * Remove all games
 * Install Chrome
 * Create C:\Dev
-* Make exception for C:\Dev with Windows Defender
+* Make exception for C:\Dev with Windows Defender (Add-MpPreference -ExclusionPath "C:\Temp")
 * Install [Visual Studio Community Edition](https://visualstudio.microsoft.com/vs/)
 * Install [VS Code](https://code.visualstudio.com/)
 * Install [GifCam](http://blog.bahraniapps.com/gifcam/)
