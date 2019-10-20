@@ -7,7 +7,7 @@
 * Install Chrome
 * Create C:\Dev
 * Make exception for C:\Dev with Windows Defender (Add-MpPreference -ExclusionPath "C:\Dev")
-* Make exception for NuGet with Windows Defender (Add-MpPreference -ExclusionPath "C:\Users\Bjorn\AppData\Local\NuGet")
+* Make exception for NuGet with Windows Defender (Add-MpPreference -ExclusionPath "C:\Users\Bjorn\.nuget")
 * Install [Visual Studio Community Edition](https://visualstudio.microsoft.com/vs/)
 * Install [VS Code](https://code.visualstudio.com/)
 * Install [GifCam](http://blog.bahraniapps.com/gifcam/)
