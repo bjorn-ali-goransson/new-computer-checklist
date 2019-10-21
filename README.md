@@ -19,6 +19,7 @@
 * Activate "Remember language input setting in each window"
 * Install [7-Zip](https://www.7-zip.org)
 * Install [Git](https://git-scm.com/download/win)
+* Install [az-cli](https://aka.ms/installazurecliwindows)
 * Run `git config --global user.email "bjorn.a.goransson@gmail.com"`
 * Run `git config --global user.name "Björn Ali Göransson"`
 * Change DPI
