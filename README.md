@@ -1,5 +1,7 @@
 # new-computer-checklist
 
+DONT FORGET TO BACKUP YOUR FILEZILLA CREDS!
+
 * Run [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) `(iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/debloat')))`
 * Disable the search bar (reg key `HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Search = 0`)
 * Disable Task View button (reg key HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced\ShowTaskViewButton = 0)
@@ -28,3 +30,4 @@
 * Install [Slack](https://slack.com/intl/en-se/downloads/windows)
 * Install [Dell SupportAssist](https://lmgtfy.com/?q=dell+support+assist)
 * Install [kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/#install-kubectl-on-windows)
+* Install [Slack](https://slack.com/intl/en-se/downloads/windows)
