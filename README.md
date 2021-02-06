@@ -30,4 +30,4 @@ DONT FORGET TO BACKUP YOUR FILEZILLA CREDS!
 * Install [Slack](https://slack.com/intl/en-se/downloads/windows)
 * Install [Dell SupportAssist](https://lmgtfy.com/?q=dell+support+assist)
 * Install [kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/#install-kubectl-on-windows)
-* Install [Slack](https://slack.com/intl/en-se/downloads/windows)
+* Install [Discord](https://discord.com/download)
