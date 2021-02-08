@@ -1,6 +1,6 @@
 # new-computer-checklist
 
-DONT FORGET TO BACKUP YOUR FILEZILLA CREDS!
+DONT FORGET TO BACKUP YOUR FILEZILLA CREDS AND SSH KEY!
 
 * Run [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) `(iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/debloat')))`
 * Disable the search bar (reg key `HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Search = 0`)
