@@ -12,6 +12,7 @@ DONT FORGET TO BACKUP YOUR FILEZILLA CREDS AND SSH KEY!
 * Make exception for NuGet with Windows Defender (Add-MpPreference -ExclusionPath "C:\Users\Bjorn\.nuget")
 * Install [Visual Studio Community Edition](https://visualstudio.microsoft.com/vs/)
 * Install [VS Code](https://code.visualstudio.com/)
+  - Install Kubernetes extension
 * Install [GifCam](http://blog.bahraniapps.com/gifcam/)
 * Show hidden files
 * Show file extensions
@@ -31,4 +32,5 @@ DONT FORGET TO BACKUP YOUR FILEZILLA CREDS AND SSH KEY!
 * Install [Dell SupportAssist](https://lmgtfy.com/?q=dell+support+assist)
 * Install [kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/#install-kubectl-on-windows)
 * Install [Discord](https://discord.com/download)
+* Install Docker
 * Keybase, VPN ...
