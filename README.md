@@ -34,4 +34,5 @@ DONT FORGET TO BACKUP YOUR FILEZILLA CREDS AND SSH KEY!
 * Install [kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/#install-kubectl-on-windows)
 * Install [Discord](https://discord.com/download)
 * Install Docker
+* Install [SSMS](https://aka.ms/ssmsfullsetup)
 * Keybase, VPN ...
