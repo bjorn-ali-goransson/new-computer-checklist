@@ -10,6 +10,7 @@ DONT FORGET TO BACKUP YOUR FILEZILLA CREDS AND SSH KEY!
 * Create C:\Dev
 * Make exception for C:\Dev with Windows Defender (Add-MpPreference -ExclusionPath "C:\Dev")
 * Make exception for NuGet with Windows Defender (Add-MpPreference -ExclusionPath "C:\Users\Bjorn\.nuget")
+* Exclude Dev folder ![image](https://user-images.githubusercontent.com/668160/136950641-e1ae8e6d-cb2c-4a66-aa2a-783018783a0e.png)
 * Install [Visual Studio Community Edition](https://visualstudio.microsoft.com/vs/)
 * Install [VS Code](https://code.visualstudio.com/)
   - Install Kubernetes extension
