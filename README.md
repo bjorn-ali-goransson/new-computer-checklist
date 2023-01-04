@@ -6,7 +6,7 @@ DONT FORGET TO BACKUP YOUR FILEZILLA CREDS AND SSH KEY!
 * Disable the search bar (reg key `HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Search = 0`)
 * Disable Task View button (reg key HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced\ShowTaskViewButton = 0)
 * Remove all games
-* Install Chrome
+* Change Edge start page, search engine
 * Create C:\Dev
 * Make exception for C:\Dev with Windows Defender (Add-MpPreference -ExclusionPath "C:\Dev")
 * Make exception for NuGet with Windows Defender (Add-MpPreference -ExclusionPath "C:\Users\Bjorn\.nuget")
